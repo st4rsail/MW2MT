@@ -1,0 +1,6 @@
+release notes
+1.0.1
+changes:
+ fixed landscape mode video orientation in iOS4
+ navigation buttons (back, reload and forward) added in videos
+ quarry and skidrow updated with new and better videos
